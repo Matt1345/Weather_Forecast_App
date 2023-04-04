@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pink">#FFBB86FC</color>
+    <color name="purple_light">#FF6200EE</color>
+    <color name="purple_dark">#FF3700B3</color>
+    <color name="akvamarin">#FF03DAC5</color>
+    <color name="akvamarin_dark">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_blue"> #3399ff</color>
+    <color name="darker_blue">#0F5EAE</color>
+    <color name="gray">#4A4646</color>
+    <color name="light_grey">#D5CBCB</color>
+</resources>
