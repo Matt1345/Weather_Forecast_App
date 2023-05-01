@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Prognoza</string>
+    <string name="title_home">Početna</string>
+    <string name="title_dashboard">Ploča</string>
+    <string name="title_notifications">Obavijesti</string>
+    <string name="navigation_search">Pretraživanje</string>
+    <string name="navigation_favorites">Favoriti</string>
+    <string name="navigation_settings">Postavke</string>
+    <string name="title_search">Pretraživanje</string>
+    <string name="title_favorites">Favoriti</string>
+    <string name="title_settings">Postavke</string>
+
+    <string name="current_temp_cel">%1$d°</string>
+    <string name="min_max_temp_cel">%1$d° / %2$d°</string>
+    <string name="wind_kmh">%1$d km/h (NW)</string>
+    <string name="visibility_km">%1$d km</string>
+    <string name="current_temp_fahr">%1$d°</string>
+    <string name="min_max_temp_fahr">%1$d° / %2$d°</string>
+    <string name="wind_mph">%1$d mph (NW)</string>
+    <string name="visibility_mil">%1$d milja</string>
+    <string name="humidity">%1$d %%</string>
+    <string name="pressure">%1$d hPa</string>
+
+    <string name="language">Jezik</string>
+    <string name="croatian">Hrvatski</string>
+    <string name="english">Engleski</string>
+    <string name="units">Jedinice</string>
+    <string name="metric">Metričke</string>
+    <string name="imperial">Imperijalističke</string>
+    <string name="today">Danas</string>
+    <string name="min_max">MIN / MAX</string>
+    <string name="wind_title">VJETAR</string>
+    <string name="humidity_title">VLAŽNOST</string>
+    <string name="pressure_title">TLAK</string>
+    <string name="visibility_title">VIDLJIVOST</string>
+    <string name="accuracy_title">PRECIZNOST</string>
+    <string name="next_seven_days">Sljedećih 7 dana</string>
+</resources>

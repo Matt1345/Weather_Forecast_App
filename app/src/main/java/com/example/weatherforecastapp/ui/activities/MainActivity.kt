@@ -1,6 +1,6 @@
-package com.example.weatherforecastapp.activities
+package com.example.weatherforecastapp.ui.activities
 
-import android.content.Intent
+
 import android.os.Bundle
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import androidx.appcompat.app.AppCompatActivity
@@ -10,6 +10,7 @@ import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import com.example.weatherforecastapp.R
 import com.example.weatherforecastapp.databinding.ActivityMainBinding
+
 
 class MainActivity : AppCompatActivity() {
 
