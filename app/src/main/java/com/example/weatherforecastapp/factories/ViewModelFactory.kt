@@ -2,7 +2,7 @@ package com.example.weatherforecastapp.factories
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.example.weatherforecastapp.MainViewModel
+import com.example.weatherforecastapp.ui.activities.MainViewModel
 import com.example.weatherforecastapp.network.ApiHelper
 import com.example.weatherforecastapp.network.MainRepository
 
