@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_search">
+
+    <fragment
+        android:id="@+id/navigation_search"
+        android:name="com.example.weatherforecastapp.ui.search.SearchFragment"
+        tools:layout="@layout/fragment_search"
+        android:label="" />
+
+    <fragment
+        android:id="@+id/navigation_favorites"
+        android:name="com.example.weatherforecastapp.ui.favorites.FavoritesFragment"
+        tools:layout="@layout/fragment_favorites"
+        android:label=""/>
+
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="com.example.weatherforecastapp.ui.settings.SettingsFragment"
+        tools:layout="@layout/fragment_settings"
+        android:label=""/>
+</navigation>
